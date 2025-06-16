@@ -150,6 +150,6 @@ For all features, go to [docs](https://utopium.cc/docs)
 
 ### Showcase (old)
 
-Small showcase of some features such as tilting card, audio visualizer and thunder effect.
+Small showcase of some features such as marketplace, chat and badges.
 
-https://github.com/user-attachments/assets/250a19aa-0b7a-48ed-9dfb-a129b6cf737f
+https://cdn.7udas.cc/utopium-showcase.mp4
