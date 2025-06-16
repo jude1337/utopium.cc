@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/22fbdb42-f2cb-4324-8d61-39435530997d)
+![image](https://cdn.7udas.cc/utopium.cc)
 
 <p align="center">
   <a href="https://utopium.cc/">
