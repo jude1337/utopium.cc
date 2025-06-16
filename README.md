@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-utopium.cc is a feature-rich link-in-bio tool with over 70,000 users, that I’ve personally developed and designed.
+utopium.cc is a multifuntional invite-only forum.
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/maria-nguyen-le">
-    <img src="https://img.shields.io/badge/-MariaLe-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-nguyen-le/" alt="LinkedIn" />
+  <a href="https://t.me/jud6s">
+    <img src="https://img.shields.io/badge/-jud6s-blue?style=plastic-square&logo=Telegram&logoColor=white&link=https://t.me/jud6s" alt="Telegram" />
   </a>
 </p>
 <br/>
