@@ -35,7 +35,7 @@ utopium.cc is a multifuntional invite-only forum.
 
 ## Introduction
 
-In this repository, you'll find **snippets of code** from my development of Slat.cc inside the `/snippets` folder.  
+In this repository, you'll find **snippets of code** from my development of utopium.cc inside the `/snippets` folder.  
 Additionally, the `/images` folder contains **actual screenshots** of various pages, features and UI elements of the platform.
 
 Further down, you can explore the **actual (or nearly complete) folder structure** of the project.
