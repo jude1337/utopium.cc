@@ -1,4 +1,4 @@
-![image](https://cdn.7udas.cc/utopium.cc)
+![image](https://utopium.cc/mockup-preview.png)
 
 <p align="center">
   <a href="https://utopium.cc/">
